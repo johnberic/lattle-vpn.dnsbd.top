@@ -12,8 +12,8 @@ HYSTERIA_TYPE='default';
 PORT_VLESS='442';
 API_LINK='https://lattle-vpn.dnsbd.top/api/authentication';
 API_KEY='@Tknetwork';
-DOMAIN=shdw.dnsbd.top
-NS=opom.dnsbd.top
+DOMAIN=sjp1.dnsbd.top
+NS=l4jq.dnsbd.top
 timedatectl set-timezone Asia/Riyadh
 if [[ $(grep "nogroup" /etc/group) ]]; then
     cert_group="nogroup"
